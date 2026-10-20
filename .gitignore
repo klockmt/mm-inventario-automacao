@@ -1,0 +1,19 @@
+# Planilhas e dados reais de inventário (não versionar)
+*.xlsx
+*.xlsb
+*.xlsm
+*.csv
+*.zip
+41070100
+
+# Saídas de build do PyInstaller
+build/
+dist/
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
